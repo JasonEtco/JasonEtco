@@ -37,18 +37,18 @@
 
 ---
 
+**Name:** Geocities 
+
+<sub><strong>Date:</strong> 05/28/2020</sub>
+
+**Message:** You support flash?
+
+---
+
 **Name:** Definitely not Jason
 
 <sub><strong>Date:</strong> 05/28/2020</sub>
 
 **Message:** Hey!
-
----
-
-**Name:** JasonEtco... but again!
-
-<sub><strong>Date:</strong> 05/28/2020</sub>
-
-**Message:** Testing it again!
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"Geocities ","message":"You support flash?","date":"05/28/2020"},{"name":"Definitely not Jason","message":"Hey!","date":"05/28/2020"},{"name":"JasonEtco... but again!","message":"Testing it again!","date":"05/28/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"Geocities ","message":"You support flash?","date":"05/28/2020"},{"name":"Geocities ","message":"You support flash?","date":"05/28/2020"},{"name":"Definitely not Jason","message":"Hey!","date":"05/28/2020"}]-->
