@@ -26,7 +26,7 @@
 
 ##### Guestbook
 
-<a href="https://readme-guestbook.now.sh?r=https://github.com/JasonEtco">Sign it!</a>
+<a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
 <!--END_SECTION:guestbook-->
