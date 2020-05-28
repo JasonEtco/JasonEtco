@@ -29,10 +29,18 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+**Name:** Taegon
+
+<sub><strong>Date:</strong> 05/28/2020</sub>
+
+**Message:** Interesting. How does it work? This message is appended in README directly?
+
+---
+
 **Name:** JasonEtco
 
 <sub><strong>Date:</strong> 05/28/2020</sub>
 
 **Message:** Hello! Welcome to my profile 💌
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"JasonEtco","message":"Hello! Welcome to my profile 💌","date":"05/28/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"Taegon","message":"Interesting. How does it work? This message is appended in README directly?","date":"05/28/2020"},{"name":"JasonEtco","message":"Hello! Welcome to my profile 💌","date":"05/28/2020"}]-->
