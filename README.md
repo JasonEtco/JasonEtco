@@ -29,11 +29,20 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+
 **Name:** bdresser
 
 <sub><strong>Date:</strong> 05/28/2020</sub>
 
 **Message:** just wanted to say – your status made me lol
+
+---
+
+**Name:** skullface
+
+<sub><strong>Date:</strong> 05/28/2020</sub>
+
+**Message:** owo you never cease to amaze me!
 
 ---
 
@@ -43,4 +52,4 @@
 
 **Message:** Hello! Welcome to my profile 💌
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"bdresser","message":"just wanted to say – your status made me lol","date":"05/28/2020"},{"name":"JasonEtco","message":"Hello! Welcome to my profile 💌","date":"05/28/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"bdresser","message":"just wanted to say – your status made me lol","date":"05/28/2020"},{"name":"skullface","message":"owo you never cease to amaze me!","date":"05/28/2020"},{"name":"JasonEtco","message":"Hello! Welcome to my profile 💌","date":"05/28/2020"}]-->
