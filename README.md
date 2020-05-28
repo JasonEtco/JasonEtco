@@ -31,4 +31,4 @@
 
 **Message:** Testing the guest book!
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST []-->
+<!--GUESTBOOK_LIST [{"name":"JasonEtco","message":"Testing the guest book!","date":"05/28/2020"}]-->
