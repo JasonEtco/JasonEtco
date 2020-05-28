@@ -21,3 +21,9 @@
 - [Building GitHub Actions in Node.js](https://jasonet.co/posts/building-github-actions-in-node)
 - [Probot App or GitHub Action?](https://jasonet.co/posts/probot-app-or-github-action)
 <!--END_SECTION:posts-->
+
+##### Guestbook
+
+<!--START_SECTION:guestbook-->
+<!--END_SECTION:guestbook-->
+<!--GUESTBOOK_LIST []-->
