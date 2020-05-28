@@ -1,11 +1,13 @@
-<h3>👋 Hello! I'm Jason.</h3>
+<h3 align="center">👋 Hello! I'm Jason.</h3>
 
-<p>
+<p align="center">
   <a href="https://jasonet.co">Blog</a> •
   <a href="https://twitter.com/JasonEtco">Twitter</a>
 </p>
 
-## Blog posts
+---
+
+##### Blog posts
 
 <!--START_SECTION:posts-->
 - [Probot App or GitHub Action? (Updated)](https://jasonet.co/posts/probot-app-or-github-action-v2)
