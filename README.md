@@ -25,8 +25,10 @@
 ##### Guestbook
 
 <!--START_SECTION:guestbook-->
-**Name:** undefined
+**Name:** JasonEtco
+
 **Date:** 05/28/2020
-**Message:** undefined
+
+**Message:** Testing the guest book!
 <!--END_SECTION:guestbook-->
 <!--GUESTBOOK_LIST []-->
