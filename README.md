@@ -31,6 +31,15 @@
 <!--START_SECTION:guestbook-->
 [@JasonEtco](https://github.com/@JasonEtco) says:
 
+> Doing one more test!
+
+<sup>06/04/2020</sup>
+
+
+---
+
+[@JasonEtco](https://github.com/@JasonEtco) says:
+
 > Testing this is fun!
 
 <sup>06/04/2020</sup>
@@ -44,14 +53,5 @@
 
 <sup>06/04/2020</sup>
 
-
----
-
-[@lukehefson](https://github.com/@lukehefson) says:
-
-> Good grief this is cool
-
-<sup>06/03/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"JasonEtco","message":"Testing this is fun!","date":"06/04/2020"},{"message":"Testing my guestbook!","date":"06/04/2020"},{"name":"lukehefson","message":"Good grief this is cool","date":"06/03/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"JasonEtco","message":"Doing one more test!","date":"06/04/2020"},{"name":"JasonEtco","message":"Testing this is fun!","date":"06/04/2020"},{"message":"Testing my guestbook!","date":"06/04/2020"}]-->
