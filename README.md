@@ -29,6 +29,14 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+**Name:** undefined
+
+<sub><strong>Date:</strong> 06/04/2020</sub>
+
+**Message:** Testing my guestbook!
+
+---
+
 **Name:** lukehefson
 
 <sub><strong>Date:</strong> 06/03/2020</sub>
@@ -42,14 +50,5 @@
 <sub><strong>Date:</strong> 06/03/2020</sub>
 
 **Message:** I AM TRULY IMPRESSED! This is amazing. See you next school year!
-
----
-
-**Name:** itsbagpack
-
-<sub><strong>Date:</strong> 06/03/2020</sub>
-
-**Message:** This is the most awesome page on the internet!
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"lukehefson","message":"Good grief this is cool","date":"06/03/2020"},{"name":"ohitsmekatie","message":"I AM TRULY IMPRESSED! This is amazing. See you next school year!","date":"06/03/2020"},{"name":"itsbagpack","message":"YOU ARE AWESOME. JASON JASON JASON!","date":"06/03/2020"}]-->
+<!--GUESTBOOK_LIST [{"message":"Testing my guestbook!","date":"06/04/2020"},{"name":"lukehefson","message":"Good grief this is cool","date":"06/03/2020"},{"name":"ohitsmekatie","message":"I AM TRULY IMPRESSED! This is amazing. See you next school year!","date":"06/03/2020"}]-->
