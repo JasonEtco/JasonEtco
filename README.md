@@ -29,6 +29,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@crichID](https://github.com/@crichID) says:
+
+> @jasonetco I'm so happy I stopped by!
+
+<sup>06/04/2020</sup>
+
+
+---
+
 [@yamiacat](https://github.com/@yamiacat) says:
 
 > Wow, great feature @JasonEtco! (Does that @mention ping you!?)
@@ -62,14 +71,5 @@
 
 <sup>06/04/2020</sup>
 
-
----
-
-[@undefined](https://github.com/@undefined) says:
-
-> Testing my guestbook!
-
-<sup>06/04/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"yamiacat","message":"Wow, great feature @JasonEtco! (Does that @mention ping you!?)","date":"06/04/2020"},{"name":"becca","message":"👋Jason! Hope we can eat bagels together again sometime soon (NYC style).","date":"06/04/2020"},{"name":"JasonEtco","message":"Doing one more test!","date":"06/04/2020"},{"name":"JasonEtco","message":"Testing this is fun!","date":"06/04/2020"},{"message":"Testing my guestbook!","date":"06/04/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"crichID","message":"@jasonetco I'm so happy I stopped by!","date":"06/04/2020"},{"name":"yamiacat","message":"Wow, great feature @JasonEtco! (Does that @mention ping you!?)","date":"06/04/2020"},{"name":"becca","message":"👋Jason! Hope we can eat bagels together again sometime soon (NYC style).","date":"06/04/2020"},{"name":"JasonEtco","message":"Doing one more test!","date":"06/04/2020"},{"name":"JasonEtco","message":"Testing this is fun!","date":"06/04/2020"}]-->
