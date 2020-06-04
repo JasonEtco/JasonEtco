@@ -37,18 +37,19 @@
 
 ---
 
-**Name:** jeffrafter
+**Name:** ohitsmekatie
 
-<sub><strong>Date:</strong> 05/28/2020</sub>
+<sub><strong>Date:</strong> 06/03/2020</sub>
 
-**Message:** This is the most awesome page on the internet!
+**Message:** I AM TRULY IMPRESSED! This is amazing. See you next school year!
 
 ---
 
-**Name:** bdresser
+**Name:** itsbagpack
 
-<sub><strong>Date:</strong> 05/28/2020</sub>
+<sub><strong>Date:</strong> 06/03/2020</sub>
 
-**Message:** just wanted to say – your status made me lol
+**Message:** This is the most awesome page on the internet!
+
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"lukehefson","message":"Good grief this is cool","date":"06/03/2020"},{"name":"jeffrafter","message":"This is the most awesome page on the internet!","date":"05/28/2020"},{"name":"bdresser","message":"just wanted to say – your status made me lol","date":"05/28/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"lukehefson","message":"Good grief this is cool","date":"06/03/2020"},{"name":"ohitsmekatie","message":"I AM TRULY IMPRESSED! This is amazing. See you next school year!","date":"06/03/2020"},{"name":"itsbagpack","message":"YOU ARE AWESOME. JASON JASON JASON!","date":"06/03/2020"}]-->
