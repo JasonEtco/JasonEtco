@@ -29,26 +29,29 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
-**Name:** undefined
+[@JasonEtco](https://github.com/@JasonEtco) says:
 
-<sub><strong>Date:</strong> 06/04/2020</sub>
+> Testing this is fun!
 
-**Message:** Testing my guestbook!
+<sup>06/04/2020</sup>
 
----
-
-**Name:** lukehefson
-
-<sub><strong>Date:</strong> 06/03/2020</sub>
-
-**Message:** Good grief this is cool
 
 ---
 
-**Name:** ohitsmekatie
+[@undefined](https://github.com/@undefined) says:
 
-<sub><strong>Date:</strong> 06/03/2020</sub>
+> Testing my guestbook!
 
-**Message:** I AM TRULY IMPRESSED! This is amazing. See you next school year!
+<sup>06/04/2020</sup>
+
+
+---
+
+[@lukehefson](https://github.com/@lukehefson) says:
+
+> Good grief this is cool
+
+<sup>06/03/2020</sup>
+
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"message":"Testing my guestbook!","date":"06/04/2020"},{"name":"lukehefson","message":"Good grief this is cool","date":"06/03/2020"},{"name":"ohitsmekatie","message":"I AM TRULY IMPRESSED! This is amazing. See you next school year!","date":"06/03/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"JasonEtco","message":"Testing this is fun!","date":"06/04/2020"},{"message":"Testing my guestbook!","date":"06/04/2020"},{"name":"lukehefson","message":"Good grief this is cool","date":"06/03/2020"}]-->
