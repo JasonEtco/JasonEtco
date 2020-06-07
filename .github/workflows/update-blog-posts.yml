@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: npm ci
-      - run: node .github/actions/update-update-blog-posts.js
+      - run: node .github/actions/update-blog-posts.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           FEED_URL: https://jasonet.co/rss.xml
