@@ -24,7 +24,16 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
-[@hollenberry](https://github.com/@hollenberry) says:
+[@fejes713](https://github.com/fejes713) says:
+
+> This is so cool! I love it. I hope you have a great weekend. 
+
+<sup>06/13/2020</sup>
+
+
+---
+
+[@hollenberry](https://github.com/hollenberry) says:
 
 > :poop:
 
@@ -33,7 +42,7 @@
 
 ---
 
-[@brianamarie](https://github.com/@brianamarie) says:
+[@brianamarie](https://github.com/brianamarie) says:
 
 > :sparkles: OMG this is cool and so is this! :wow: :dogwow:
 
@@ -42,7 +51,7 @@
 
 ---
 
-[@crichID](https://github.com/@crichID) says:
+[@crichID](https://github.com/crichID) says:
 
 > @jasonetco I'm so happy I stopped by!
 
@@ -51,20 +60,11 @@
 
 ---
 
-[@yamiacat](https://github.com/@yamiacat) says:
+[@yamiacat](https://github.com/yamiacat) says:
 
 > Wow, great feature @JasonEtco! (Does that @mention ping you!?)
 
 <sup>06/04/2020</sup>
 
-
----
-
-[@becca](https://github.com/@becca) says:
-
-> 👋Jason! Hope we can eat bagels together again sometime soon (NYC style).
-
-<sup>06/04/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"hollenberry","message":":poop:","date":"06/05/2020"},{"name":"brianamarie","message":":sparkles: OMG this is cool and so is this! :wow: :dogwow:","date":"06/05/2020"},{"name":"crichID","message":"@jasonetco I'm so happy I stopped by!","date":"06/04/2020"},{"name":"yamiacat","message":"Wow, great feature @JasonEtco! (Does that @mention ping you!?)","date":"06/04/2020"},{"name":"becca","message":"👋Jason! Hope we can eat bagels together again sometime soon (NYC style).","date":"06/04/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"fejes713","message":"This is so cool! I love it. I hope you have a great weekend. ","date":"06/13/2020"},{"name":"hollenberry","message":":poop:","date":"06/05/2020"},{"name":"brianamarie","message":":sparkles: OMG this is cool and so is this! :wow: :dogwow:","date":"06/05/2020"},{"name":"crichID","message":"@jasonetco I'm so happy I stopped by!","date":"06/04/2020"},{"name":"yamiacat","message":"Wow, great feature @JasonEtco! (Does that @mention ping you!?)","date":"06/04/2020"}]-->
