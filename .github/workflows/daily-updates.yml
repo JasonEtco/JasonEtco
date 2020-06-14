@@ -1,4 +1,4 @@
-name: Update this repo's README
+name: Daily updates
 
 on:
   schedule:
@@ -9,7 +9,8 @@ on:
       - master
 
 jobs:
-  update:
+  update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - uses: JasonEtco/rss-to-readme@v1
