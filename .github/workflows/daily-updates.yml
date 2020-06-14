@@ -24,7 +24,7 @@ jobs:
     steps:
       - uses: actions/github-script@v2
         with:
-          github-token: ${{ secrets.GITHUB_PAT }}
+          github-token: ${{ secrets.GH_PAT }}
           script: |
             const query = `mutation changeUserStatus ($input: ChangeUserStatusInput!) {
               changeUserStatus (input: $input) {
