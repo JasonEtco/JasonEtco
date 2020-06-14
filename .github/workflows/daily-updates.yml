@@ -18,3 +18,29 @@ jobs:
           feed-url: https://jasonet.co/rss.xml
           readme-section: posts
 
+  update-status:
+    name: Update my status
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v2
+        with:
+          github-token: ${{ secrets.GITHUB_PAT }}
+          script: |
+            const query = `mutation changeUserStatus ($input: ChangeUserStatusInput!) {
+              changeUserStatus (input: $input) {
+                status {
+                  emoji
+                  message
+                }
+              }
+            }`
+
+            const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
+            const dayIndex = (new Date()).getDay()
+
+            github.graphql(query, {
+              input: {
+                emoji: '👋',
+                message: `Hello, happy ${days[dayIndex]}!`
+              }
+            })
