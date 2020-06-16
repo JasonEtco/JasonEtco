@@ -24,6 +24,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@deniseyu](https://github.com/deniseyu) says:
+
+> 🐱👋
+
+<sup>06/16/2020</sup>
+
+
+---
+
 [@JessRudder](https://github.com/JessRudder) says:
 
 > Jason is fantastic and an all-around great Hubber.
@@ -57,14 +66,5 @@
 
 <sup>06/16/2020</sup>
 
-
----
-
-[@mscoutermarsh](https://github.com/mscoutermarsh) says:
-
-> Jason is so coool
-
-<sup>06/15/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"JessRudder","message":"Jason is fantastic and an all-around great Hubber.","date":"06/16/2020"},{"name":"srt32","message":"💖","date":"06/16/2020"},{"name":"dmleong","message":"HONK","date":"06/16/2020"},{"name":"wbbradley","message":"<a>This is a test</a>","date":"06/16/2020"},{"name":"mscoutermarsh","message":"Jason is so coool","date":"06/15/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"deniseyu","message":"🐱👋","date":"06/16/2020"},{"name":"JessRudder","message":"Jason is fantastic and an all-around great Hubber.","date":"06/16/2020"},{"name":"srt32","message":"💖","date":"06/16/2020"},{"name":"dmleong","message":"HONK","date":"06/16/2020"},{"name":"wbbradley","message":"<a>This is a test</a>","date":"06/16/2020"}]-->
