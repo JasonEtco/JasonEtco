@@ -24,6 +24,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@jjjaney](https://github.com/jjjaney) says:
+
+> This is so wholesome. Thank you for this :D
+
+<sup>06/17/2020</sup>
+
+
+---
+
 [@joshmgross](https://github.com/joshmgross) says:
 
 > 👋 This is awesome!
@@ -57,14 +66,5 @@
 
 <sup>06/16/2020</sup>
 
-
----
-
-[@phillmv](https://github.com/phillmv) says:
-
-> HI JASON WHAT A NICE GUESTBOOK HOPE YOURE DOING WELL
-
-<sup>06/16/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"joshmgross","message":"👋 This is awesome!","date":"06/17/2020"},{"name":"nixpad","message":"You are awesome!! 🌈 ","date":"06/16/2020"},{"name":"angelapwen","message":"yaaaaaaaaaaas","date":"06/16/2020"},{"name":"eliperkins","message":"@JasonEtco is the GitHub Actions Trailblazer™","date":"06/16/2020"},{"name":"phillmv","message":"HI JASON WHAT A NICE GUESTBOOK HOPE YOURE DOING WELL","date":"06/16/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"jjjaney","message":"This is so wholesome. Thank you for this :D","date":"06/17/2020"},{"name":"joshmgross","message":"👋 This is awesome!","date":"06/17/2020"},{"name":"nixpad","message":"You are awesome!! 🌈 ","date":"06/16/2020"},{"name":"angelapwen","message":"yaaaaaaaaaaas","date":"06/16/2020"},{"name":"eliperkins","message":"@JasonEtco is the GitHub Actions Trailblazer™","date":"06/16/2020"}]-->
