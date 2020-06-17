@@ -24,6 +24,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@skullface](https://github.com/skullface) says:
+
+> this rules, you rule
+
+<sup>06/17/2020</sup>
+
+
+---
+
 [@jjjaney](https://github.com/jjjaney) says:
 
 > This is so wholesome. Thank you for this :D
@@ -57,14 +66,5 @@
 
 <sup>06/16/2020</sup>
 
-
----
-
-[@eliperkins](https://github.com/eliperkins) says:
-
-> @JasonEtco is the GitHub Actions Trailblazer™
-
-<sup>06/16/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"jjjaney","message":"This is so wholesome. Thank you for this :D","date":"06/17/2020"},{"name":"joshmgross","message":"👋 This is awesome!","date":"06/17/2020"},{"name":"nixpad","message":"You are awesome!! 🌈 ","date":"06/16/2020"},{"name":"angelapwen","message":"yaaaaaaaaaaas","date":"06/16/2020"},{"name":"eliperkins","message":"@JasonEtco is the GitHub Actions Trailblazer™","date":"06/16/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"skullface","message":"this rules, you rule","date":"06/17/2020"},{"name":"jjjaney","message":"This is so wholesome. Thank you for this :D","date":"06/17/2020"},{"name":"joshmgross","message":"👋 This is awesome!","date":"06/17/2020"},{"name":"nixpad","message":"You are awesome!! 🌈 ","date":"06/16/2020"},{"name":"angelapwen","message":"yaaaaaaaaaaas","date":"06/16/2020"}]-->
