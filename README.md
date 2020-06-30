@@ -24,6 +24,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@JessRudder](https://github.com/JessRudder) says:
+
+> Definitely not lurking on your guestbook. :D
+
+<sup>06/30/2020</sup>
+
+
+---
+
 [@tcbyrd](https://github.com/tcbyrd) says:
 
 > Hi Jason! Great idea with the guest book! 🎉
@@ -61,14 +70,5 @@ Until... 🐛
 
 <sup>06/26/2020</sup>
 
-
----
-
-[@skullface](https://github.com/skullface) says:
-
-> this rules, you rule
-
-<sup>06/17/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"tcbyrd","message":"Hi Jason! Great idea with the guest book! 🎉","date":"06/29/2020"},{"name":"JessRudder","message":"Loving the guestbook!","date":"06/27/2020"},{"name":"aaronyzhou","message":" 👋 ","date":"06/26/2020"},{"name":"JamesMGreene","message":"Yum yum! 🥦\n\nUntil... 🐛\n\n😱😱😱","date":"06/26/2020"},{"name":"skullface","message":"this rules, you rule","date":"06/17/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"JessRudder","message":"Definitely not lurking on your guestbook. :D","date":"06/30/2020"},{"name":"tcbyrd","message":"Hi Jason! Great idea with the guest book! 🎉","date":"06/29/2020"},{"name":"JessRudder","message":"Loving the guestbook!","date":"06/27/2020"},{"name":"aaronyzhou","message":" 👋 ","date":"06/26/2020"},{"name":"JamesMGreene","message":"Yum yum! 🥦\n\nUntil... 🐛\n\n😱😱😱","date":"06/26/2020"}]-->
