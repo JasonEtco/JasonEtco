@@ -24,6 +24,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@febuiles](https://github.com/febuiles) says:
+
+> Let's bring back the proper web!
+
+<sup>07/01/2020</sup>
+
+
+---
+
 [@JessRudder](https://github.com/JessRudder) says:
 
 > Definitely not lurking on your guestbook. :D
@@ -57,18 +66,5 @@
 
 <sup>06/26/2020</sup>
 
-
----
-
-[@JamesMGreene](https://github.com/JamesMGreene) says:
-
-> Yum yum! 🥦
-
-Until... 🐛
-
-😱😱😱
-
-<sup>06/26/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"JessRudder","message":"Definitely not lurking on your guestbook. :D","date":"06/30/2020"},{"name":"tcbyrd","message":"Hi Jason! Great idea with the guest book! 🎉","date":"06/29/2020"},{"name":"JessRudder","message":"Loving the guestbook!","date":"06/27/2020"},{"name":"aaronyzhou","message":" 👋 ","date":"06/26/2020"},{"name":"JamesMGreene","message":"Yum yum! 🥦\n\nUntil... 🐛\n\n😱😱😱","date":"06/26/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"febuiles","message":"Let's bring back the proper web!","date":"07/01/2020"},{"name":"JessRudder","message":"Definitely not lurking on your guestbook. :D","date":"06/30/2020"},{"name":"tcbyrd","message":"Hi Jason! Great idea with the guest book! 🎉","date":"06/29/2020"},{"name":"JessRudder","message":"Loving the guestbook!","date":"06/27/2020"},{"name":"aaronyzhou","message":" 👋 ","date":"06/26/2020"}]-->
