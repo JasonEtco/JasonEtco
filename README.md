@@ -24,6 +24,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@bnb](https://github.com/bnb) says:
+
+> hi json
+
+<sup>07/07/2020</sup>
+
+
+---
+
 [@tobimori](https://github.com/tobimori) says:
 
 > Heck, this is fcking awesome! :3
@@ -57,14 +66,5 @@
 
 <sup>07/01/2020</sup>
 
-
----
-
-[@JessRudder](https://github.com/JessRudder) says:
-
-> Definitely not lurking on your guestbook. :D
-
-<sup>06/30/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"tobimori","message":"Heck, this is fcking awesome! :3","date":"07/06/2020"},{"name":"ReubenMathew","message":"Hey Jason, this is a cool idea!","date":"07/06/2020"},{"name":"sampoder","message":"Hey! Trying this new thing out :)","date":"07/06/2020"},{"name":"febuiles","message":"Let's bring back the proper web!","date":"07/01/2020"},{"name":"JessRudder","message":"Definitely not lurking on your guestbook. :D","date":"06/30/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"bnb","message":"hi json","date":"07/07/2020"},{"name":"tobimori","message":"Heck, this is fcking awesome! :3","date":"07/06/2020"},{"name":"ReubenMathew","message":"Hey Jason, this is a cool idea!","date":"07/06/2020"},{"name":"sampoder","message":"Hey! Trying this new thing out :)","date":"07/06/2020"},{"name":"febuiles","message":"Let's bring back the proper web!","date":"07/01/2020"}]-->
