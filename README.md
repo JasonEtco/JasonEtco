@@ -24,6 +24,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@kunicmarko20](https://github.com/kunicmarko20) says:
+
+> Amazing idea! Didn't know this was possible :D 
+
+<sup>07/09/2020</sup>
+
+
+---
+
 [@tomislavhofman](https://github.com/tomislavhofman) says:
 
 > Dude! What does mine say?
@@ -57,14 +66,5 @@
 
 <sup>07/09/2020</sup>
 
-
----
-
-[@eugeneyan](https://github.com/eugeneyan) says:
-
-> Sweet!
-
-<sup>07/09/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"tomislavhofman","message":"Dude! What does mine say?","date":"07/09/2020"},{"name":"AlgusDark","message":"Cool idea!","date":"07/09/2020"},{"name":"intrnl","message":"Nice!","date":"07/09/2020"},{"name":"swinton","message":"Hey! [Neat](https://youtu.be/dQw4w9WgXcQ)! ❤️","date":"07/09/2020"},{"name":"eugeneyan","message":"Sweet!","date":"07/09/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"kunicmarko20","message":"Amazing idea! Didn't know this was possible :D ","date":"07/09/2020"},{"name":"tomislavhofman","message":"Dude! What does mine say?","date":"07/09/2020"},{"name":"AlgusDark","message":"Cool idea!","date":"07/09/2020"},{"name":"intrnl","message":"Nice!","date":"07/09/2020"},{"name":"swinton","message":"Hey! [Neat](https://youtu.be/dQw4w9WgXcQ)! ❤️","date":"07/09/2020"}]-->
