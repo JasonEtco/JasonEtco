@@ -24,6 +24,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@ezefranca](https://github.com/ezefranca) says:
+
+> Hi Jason, merry Xmas.
+
+<sup>07/24/2020</sup>
+
+
+---
+
 [@jsmrcaga](https://github.com/jsmrcaga) says:
 
 > Amazing integration!! Kudos!
@@ -57,14 +66,5 @@
 
 <sup>07/20/2020</sup>
 
-
----
-
-[@gragland](https://github.com/gragland) says:
-
-> wow this is pretty cool
-
-<sup>07/18/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"jsmrcaga","message":"Amazing integration!! Kudos!","date":"07/24/2020"},{"name":"Poup2804","message":"Hi :P","date":"07/23/2020"},{"name":"ph1p","message":"Hi! (:","date":"07/23/2020"},{"name":"mxstbr","message":"I was here before this became popular","date":"07/20/2020"},{"name":"gragland","message":"wow this is pretty cool","date":"07/18/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"ezefranca","message":"Hi Jason, merry Xmas.","date":"07/24/2020"},{"name":"jsmrcaga","message":"Amazing integration!! Kudos!","date":"07/24/2020"},{"name":"Poup2804","message":"Hi :P","date":"07/23/2020"},{"name":"ph1p","message":"Hi! (:","date":"07/23/2020"},{"name":"mxstbr","message":"I was here before this became popular","date":"07/20/2020"}]-->
