@@ -24,6 +24,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@roger2hk](https://github.com/roger2hk) says:
+
+> Hey Jason. Nice work to show the power of GitHub profile.
+
+<sup>07/25/2020</sup>
+
+
+---
+
 [@moka491](https://github.com/moka491) says:
 
 > That's amazing!
@@ -57,14 +66,5 @@
 
 <sup>07/25/2020</sup>
 
-
----
-
-[@TKNGUE](https://github.com/TKNGUE) says:
-
-> Awesome idea!
-
-<sup>07/24/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"moka491","message":"That's amazing!","date":"07/25/2020"},{"name":"aramidefemi","message":"super lit ...","date":"07/25/2020"},{"name":"gkampitakis","message":"Great idea","date":"07/25/2020"},{"name":"s0medude","message":"Pretty cool!","date":"07/25/2020"},{"name":"TKNGUE","message":"Awesome idea!","date":"07/24/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"roger2hk","message":"Hey Jason. Nice work to show the power of GitHub profile.","date":"07/25/2020"},{"name":"moka491","message":"That's amazing!","date":"07/25/2020"},{"name":"aramidefemi","message":"super lit ...","date":"07/25/2020"},{"name":"gkampitakis","message":"Great idea","date":"07/25/2020"},{"name":"s0medude","message":"Pretty cool!","date":"07/25/2020"}]-->
