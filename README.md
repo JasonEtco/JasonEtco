@@ -24,6 +24,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@gkampitakis](https://github.com/gkampitakis) says:
+
+> Great idea
+
+<sup>07/25/2020</sup>
+
+
+---
+
 [@s0medude](https://github.com/s0medude) says:
 
 > Pretty cool!
@@ -57,14 +66,5 @@
 
 <sup>07/24/2020</sup>
 
-
----
-
-[@jsmrcaga](https://github.com/jsmrcaga) says:
-
-> Amazing integration!! Kudos!
-
-<sup>07/24/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"s0medude","message":"Pretty cool!","date":"07/25/2020"},{"name":"TKNGUE","message":"Awesome idea!","date":"07/24/2020"},{"name":"NachoKai","message":"Really creative! 😄","date":"07/24/2020"},{"name":"ezefranca","message":"Hi Jason, merry Xmas.","date":"07/24/2020"},{"name":"jsmrcaga","message":"Amazing integration!! Kudos!","date":"07/24/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"gkampitakis","message":"Great idea","date":"07/25/2020"},{"name":"s0medude","message":"Pretty cool!","date":"07/25/2020"},{"name":"TKNGUE","message":"Awesome idea!","date":"07/24/2020"},{"name":"NachoKai","message":"Really creative! 😄","date":"07/24/2020"},{"name":"ezefranca","message":"Hi Jason, merry Xmas.","date":"07/24/2020"}]-->
