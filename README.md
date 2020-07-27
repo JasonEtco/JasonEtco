@@ -24,6 +24,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@AngCosmin](https://github.com/AngCosmin) says:
+
+> Wow, that's amazing 🎉
+
+<sup>07/27/2020</sup>
+
+
+---
+
 [@j-tesla](https://github.com/j-tesla) says:
 
 > Hi Jason, I have a joke on Github, but first I have to open a pull request.
@@ -57,14 +66,5 @@
 
 <sup>07/25/2020</sup>
 
-
----
-
-[@aramidefemi](https://github.com/aramidefemi) says:
-
-> super lit ...
-
-<sup>07/25/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"j-tesla","message":"Hi Jason, I have a joke on Github, but first I have to open a pull request.","date":"07/26/2020"},{"name":"Deterio","message":"Very interesting idea!","date":"07/25/2020"},{"name":"roger2hk","message":"Hey Jason. Nice work to show the power of GitHub profile.","date":"07/25/2020"},{"name":"moka491","message":"That's amazing!","date":"07/25/2020"},{"name":"aramidefemi","message":"super lit ...","date":"07/25/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"AngCosmin","message":"Wow, that's amazing 🎉","date":"07/27/2020"},{"name":"j-tesla","message":"Hi Jason, I have a joke on Github, but first I have to open a pull request.","date":"07/26/2020"},{"name":"Deterio","message":"Very interesting idea!","date":"07/25/2020"},{"name":"roger2hk","message":"Hey Jason. Nice work to show the power of GitHub profile.","date":"07/25/2020"},{"name":"moka491","message":"That's amazing!","date":"07/25/2020"}]-->
