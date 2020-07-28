@@ -24,6 +24,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@chiedo](https://github.com/chiedo) says:
+
+> Hey Mr. Etco! Dropping by to say Howdy.
+
+<sup>07/28/2020</sup>
+
+
+---
+
 [@AngCosmin](https://github.com/AngCosmin) says:
 
 > Wow, that's amazing 🎉
@@ -57,14 +66,5 @@
 
 <sup>07/25/2020</sup>
 
-
----
-
-[@moka491](https://github.com/moka491) says:
-
-> That's amazing!
-
-<sup>07/25/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"AngCosmin","message":"Wow, that's amazing 🎉","date":"07/27/2020"},{"name":"j-tesla","message":"Hi Jason, I have a joke on Github, but first I have to open a pull request.","date":"07/26/2020"},{"name":"Deterio","message":"Very interesting idea!","date":"07/25/2020"},{"name":"roger2hk","message":"Hey Jason. Nice work to show the power of GitHub profile.","date":"07/25/2020"},{"name":"moka491","message":"That's amazing!","date":"07/25/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"chiedo","message":"Hey Mr. Etco! Dropping by to say Howdy.","date":"07/28/2020"},{"name":"AngCosmin","message":"Wow, that's amazing 🎉","date":"07/27/2020"},{"name":"j-tesla","message":"Hi Jason, I have a joke on Github, but first I have to open a pull request.","date":"07/26/2020"},{"name":"Deterio","message":"Very interesting idea!","date":"07/25/2020"},{"name":"roger2hk","message":"Hey Jason. Nice work to show the power of GitHub profile.","date":"07/25/2020"}]-->
