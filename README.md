@@ -24,6 +24,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@diegobollini](https://github.com/diegobollini) says:
+
+> Hi from Argentina!
+
+<sup>08/03/2020</sup>
+
+
+---
+
 [@CGMcBride](https://github.com/CGMcBride) says:
 
 > Love the guest book and keep on coding!
@@ -57,14 +66,5 @@
 
 <sup>07/26/2020</sup>
 
-
----
-
-[@Deterio](https://github.com/Deterio) says:
-
-> Very interesting idea!
-
-<sup>07/25/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"CGMcBride","message":"Love the guest book and keep on coding!","date":"07/29/2020"},{"name":"chiedo","message":"Hey Mr. Etco! Dropping by to say Howdy.","date":"07/28/2020"},{"name":"AngCosmin","message":"Wow, that's amazing 🎉","date":"07/27/2020"},{"name":"j-tesla","message":"Hi Jason, I have a joke on Github, but first I have to open a pull request.","date":"07/26/2020"},{"name":"Deterio","message":"Very interesting idea!","date":"07/25/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"diegobollini","message":"Hi from Argentina!","date":"08/03/2020"},{"name":"CGMcBride","message":"Love the guest book and keep on coding!","date":"07/29/2020"},{"name":"chiedo","message":"Hey Mr. Etco! Dropping by to say Howdy.","date":"07/28/2020"},{"name":"AngCosmin","message":"Wow, that's amazing 🎉","date":"07/27/2020"},{"name":"j-tesla","message":"Hi Jason, I have a joke on Github, but first I have to open a pull request.","date":"07/26/2020"}]-->
