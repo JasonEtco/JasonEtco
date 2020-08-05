@@ -24,6 +24,16 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@tylerforsythe](https://github.com/tylerforsythe) says:
+
+> Hi Jason! Always borrow money from a pessimist. They’ll never expect it back. 
+;-)
+
+<sup>08/05/2020</sup>
+
+
+---
+
 [@dbhatte](https://github.com/dbhatte) says:
 
 > Hi from Germany
@@ -57,14 +67,5 @@
 
 <sup>07/28/2020</sup>
 
-
----
-
-[@AngCosmin](https://github.com/AngCosmin) says:
-
-> Wow, that's amazing 🎉
-
-<sup>07/27/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"dbhatte","message":"Hi from Germany","date":"08/05/2020"},{"name":"diegobollini","message":"Hi from Argentina!","date":"08/03/2020"},{"name":"CGMcBride","message":"Love the guest book and keep on coding!","date":"07/29/2020"},{"name":"chiedo","message":"Hey Mr. Etco! Dropping by to say Howdy.","date":"07/28/2020"},{"name":"AngCosmin","message":"Wow, that's amazing 🎉","date":"07/27/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"tylerforsythe","message":"Hi Jason! Always borrow money from a pessimist. They’ll never expect it back. \n;-)","date":"08/05/2020"},{"name":"dbhatte","message":"Hi from Germany","date":"08/05/2020"},{"name":"diegobollini","message":"Hi from Argentina!","date":"08/03/2020"},{"name":"CGMcBride","message":"Love the guest book and keep on coding!","date":"07/29/2020"},{"name":"chiedo","message":"Hey Mr. Etco! Dropping by to say Howdy.","date":"07/28/2020"}]-->
