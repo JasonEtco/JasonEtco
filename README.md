@@ -24,6 +24,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@raisedadead](https://github.com/raisedadead) says:
+
+> Yo! This is awesome. 
+
+<sup>08/05/2020</sup>
+
+
+---
+
 [@alex-page](https://github.com/alex-page) says:
 
 > Love this Jason! Hope you are having a great day.
@@ -58,14 +67,5 @@
 
 <sup>08/03/2020</sup>
 
-
----
-
-[@CGMcBride](https://github.com/CGMcBride) says:
-
-> Love the guest book and keep on coding!
-
-<sup>07/29/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"alex-page","message":"Love this Jason! Hope you are having a great day.","date":"08/05/2020"},{"name":"tylerforsythe","message":"Hi Jason! Always borrow money from a pessimist. They’ll never expect it back. \n;-)","date":"08/05/2020"},{"name":"dbhatte","message":"Hi from Germany","date":"08/05/2020"},{"name":"diegobollini","message":"Hi from Argentina!","date":"08/03/2020"},{"name":"CGMcBride","message":"Love the guest book and keep on coding!","date":"07/29/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"raisedadead","message":"Yo! This is awesome. ","date":"08/05/2020"},{"name":"alex-page","message":"Love this Jason! Hope you are having a great day.","date":"08/05/2020"},{"name":"tylerforsythe","message":"Hi Jason! Always borrow money from a pessimist. They’ll never expect it back. \n;-)","date":"08/05/2020"},{"name":"dbhatte","message":"Hi from Germany","date":"08/05/2020"},{"name":"diegobollini","message":"Hi from Argentina!","date":"08/03/2020"}]-->
