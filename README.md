@@ -24,6 +24,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@Eduardogbg](https://github.com/Eduardogbg) says:
+
+> Hi Jason! Hope you're having a great day!
+
+<sup>08/06/2020</sup>
+
+
+---
+
 [@KingNonso](https://github.com/KingNonso) says:
 
 > Apt!
@@ -60,14 +69,5 @@ Hope you're having a great day!
 
 <sup>08/06/2020</sup>
 
-
----
-
-[@raisedadead](https://github.com/raisedadead) says:
-
-> Yo! This is awesome. 
-
-<sup>08/05/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"KingNonso","message":"Apt!\nPretty awesome ","date":"08/06/2020"},{"name":"MikeFoden","message":"Hi Jason! Really like the idea of a guestbook on your Github page - brings me back to the 90's. Got any good mixtapes handy?","date":"08/06/2020"},{"name":"BaseMax","message":"Hi Jason!\nI like the style of your pages. It's simple and beautiful.\nHope you're having a great day!","date":"08/06/2020"},{"name":"qqqzp","message":"Hi Jason! You did a wonderful job. ","date":"08/06/2020"},{"name":"raisedadead","message":"Yo! This is awesome. ","date":"08/05/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"Eduardogbg","message":"Hi Jason! Hope you're having a great day!","date":"08/06/2020"},{"name":"KingNonso","message":"Apt!\nPretty awesome ","date":"08/06/2020"},{"name":"MikeFoden","message":"Hi Jason! Really like the idea of a guestbook on your Github page - brings me back to the 90's. Got any good mixtapes handy?","date":"08/06/2020"},{"name":"BaseMax","message":"Hi Jason!\nI like the style of your pages. It's simple and beautiful.\nHope you're having a great day!","date":"08/06/2020"},{"name":"qqqzp","message":"Hi Jason! You did a wonderful job. ","date":"08/06/2020"}]-->
