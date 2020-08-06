@@ -24,6 +24,17 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@BaseMax](https://github.com/BaseMax) says:
+
+> Hi Jason!
+I like the style of your pages. It's simple and beautiful.
+Hope you're having a great day!
+
+<sup>08/06/2020</sup>
+
+
+---
+
 [@qqqzp](https://github.com/qqqzp) says:
 
 > Hi Jason! You did a wonderful job. 
@@ -58,14 +69,5 @@
 
 <sup>08/05/2020</sup>
 
-
----
-
-[@dbhatte](https://github.com/dbhatte) says:
-
-> Hi from Germany
-
-<sup>08/05/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"qqqzp","message":"Hi Jason! You did a wonderful job. ","date":"08/06/2020"},{"name":"raisedadead","message":"Yo! This is awesome. ","date":"08/05/2020"},{"name":"alex-page","message":"Love this Jason! Hope you are having a great day.","date":"08/05/2020"},{"name":"tylerforsythe","message":"Hi Jason! Always borrow money from a pessimist. They’ll never expect it back. \n;-)","date":"08/05/2020"},{"name":"dbhatte","message":"Hi from Germany","date":"08/05/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"BaseMax","message":"Hi Jason!\nI like the style of your pages. It's simple and beautiful.\nHope you're having a great day!","date":"08/06/2020"},{"name":"qqqzp","message":"Hi Jason! You did a wonderful job. ","date":"08/06/2020"},{"name":"raisedadead","message":"Yo! This is awesome. ","date":"08/05/2020"},{"name":"alex-page","message":"Love this Jason! Hope you are having a great day.","date":"08/05/2020"},{"name":"tylerforsythe","message":"Hi Jason! Always borrow money from a pessimist. They’ll never expect it back. \n;-)","date":"08/05/2020"}]-->
