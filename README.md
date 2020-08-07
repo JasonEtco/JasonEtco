@@ -24,6 +24,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@fareezMaple](https://github.com/fareezMaple) says:
+
+> Hi Jason nice
+
+<sup>08/07/2020</sup>
+
+
+---
+
 [@Eduardogbg](https://github.com/Eduardogbg) says:
 
 > Hi Jason! Hope you're having a great day!
@@ -60,14 +69,5 @@ Hope you're having a great day!
 
 <sup>08/06/2020</sup>
 
-
----
-
-[@qqqzp](https://github.com/qqqzp) says:
-
-> Hi Jason! You did a wonderful job. 
-
-<sup>08/06/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"Eduardogbg","message":"Hi Jason! Hope you're having a great day!","date":"08/06/2020"},{"name":"KingNonso","message":"Apt!\nPretty awesome ","date":"08/06/2020"},{"name":"MikeFoden","message":"Hi Jason! Really like the idea of a guestbook on your Github page - brings me back to the 90's. Got any good mixtapes handy?","date":"08/06/2020"},{"name":"BaseMax","message":"Hi Jason!\nI like the style of your pages. It's simple and beautiful.\nHope you're having a great day!","date":"08/06/2020"},{"name":"qqqzp","message":"Hi Jason! You did a wonderful job. ","date":"08/06/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"fareezMaple","message":"Hi Jason nice","date":"08/07/2020"},{"name":"Eduardogbg","message":"Hi Jason! Hope you're having a great day!","date":"08/06/2020"},{"name":"KingNonso","message":"Apt!\nPretty awesome ","date":"08/06/2020"},{"name":"MikeFoden","message":"Hi Jason! Really like the idea of a guestbook on your Github page - brings me back to the 90's. Got any good mixtapes handy?","date":"08/06/2020"},{"name":"BaseMax","message":"Hi Jason!\nI like the style of your pages. It's simple and beautiful.\nHope you're having a great day!","date":"08/06/2020"}]-->
