@@ -24,6 +24,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@Rogue-Halo](https://github.com/Rogue-Halo) says:
+
+> Hey Jason - Amazing collection of repositories. Great guestbook idea as well!
+
+<sup>08/20/2020</sup>
+
+
+---
+
 [@macedonga](https://github.com/macedonga) says:
 
 > This is pretty cool!
@@ -58,14 +67,5 @@
 
 <sup>08/07/2020</sup>
 
-
----
-
-[@Eduardogbg](https://github.com/Eduardogbg) says:
-
-> Hi Jason! Hope you're having a great day!
-
-<sup>08/06/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"macedonga","message":"This is pretty cool!","date":"08/20/2020"},{"name":"neelkanthjdabhi","message":"Hello","date":"08/20/2020"},{"name":"anmol098","message":"Hi Jason \n❤️ From India","date":"08/19/2020"},{"name":"fareezMaple","message":"Hi Jason nice","date":"08/07/2020"},{"name":"Eduardogbg","message":"Hi Jason! Hope you're having a great day!","date":"08/06/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"Rogue-Halo","message":"Hey Jason - Amazing collection of repositories. Great guestbook idea as well!","date":"08/20/2020"},{"name":"macedonga","message":"This is pretty cool!","date":"08/20/2020"},{"name":"neelkanthjdabhi","message":"Hello","date":"08/20/2020"},{"name":"anmol098","message":"Hi Jason \n❤️ From India","date":"08/19/2020"},{"name":"fareezMaple","message":"Hi Jason nice","date":"08/07/2020"}]-->
