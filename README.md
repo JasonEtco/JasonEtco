@@ -24,6 +24,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@StarSheriff2](https://github.com/StarSheriff2) says:
+
+> Hi!
+
+<sup>10/12/2020</sup>
+
+
+---
+
 [@syofyanzuhad](https://github.com/syofyanzuhad) says:
 
 > Hi Jason, from 🇮
@@ -58,14 +67,5 @@ this profile readme is very cool!!
 
 <sup>09/11/2020</sup>
 
-
----
-
-[@Rogue-Halo](https://github.com/Rogue-Halo) says:
-
-> Hey Jason - Amazing collection of repositories. Great guestbook idea as well!
-
-<sup>08/20/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"syofyanzuhad","message":"Hi Jason, from 🇮","date":"10/08/2020"},{"name":"ajkachnic","message":"woah hi there!","date":"09/22/2020"},{"name":"injoon5","message":"Hi!!!\nthis profile readme is very cool!!","date":"09/11/2020"},{"name":"phainv","message":"Hi Jason from 🇻🇳","date":"09/11/2020"},{"name":"Rogue-Halo","message":"Hey Jason - Amazing collection of repositories. Great guestbook idea as well!","date":"08/20/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"StarSheriff2","message":"Hi!","date":"10/12/2020"},{"name":"syofyanzuhad","message":"Hi Jason, from 🇮","date":"10/08/2020"},{"name":"ajkachnic","message":"woah hi there!","date":"09/22/2020"},{"name":"injoon5","message":"Hi!!!\nthis profile readme is very cool!!","date":"09/11/2020"},{"name":"phainv","message":"Hi Jason from 🇻🇳","date":"09/11/2020"}]-->
