@@ -9,20 +9,18 @@ on:
       - master
 
 jobs:
-  update-readme:
-    name: Update this repo's README
+  updates:
+    name: Updates
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - name: Update this repo's README
+        uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://jasonet.co/rss.xml
           readme-section: posts
 
-  update-status:
-    name: Update my status
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/github-script@v2
+      - name: Update my status
+        uses: actions/github-script@v2
         with:
           github-token: ${{ secrets.GH_PAT }}
           script: |
