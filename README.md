@@ -1,8 +1,8 @@
-<h3 align="center">👋 Hello! I'm Jason.</h3>
+<h3 align="center">👋 Hey there.</h3>
 
 <p align="center">
-  <a href="https://jasonet.co">Blog</a> •
-  <a href="https://twitter.com/JasonEtco">Twitter</a>
+  <a href="https://zrsaimun.blogspot.com">Blog</a> •
+  <a href="https://twitter.com/zrsaimun">Twitter</a>
 </p>
 
 ---
