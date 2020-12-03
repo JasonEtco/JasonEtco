@@ -19,7 +19,7 @@
 
 ---
 
-##### Guestbook ([ZRSaimun/readme-guestbook](https://github.com/JasonEtco/readme-guestbook))
+##### Guestbook ([ZRSaimun/readme-guestbook](https://github.com/zrsaimun/readme-guestbook))
 
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
@@ -67,4 +67,4 @@
 <sup>09/22/2020</sup>
 
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"vybhav72954","message":"So many wonderful things in this Git account, when will you be publishing the /assign action?","date":"11/06/2020"},{"name":"ahmadnassri","message":"Jason makes nice things!","date":"10/23/2020"},{"name":"StarSheriff2","message":"Hi!","date":"10/12/2020"},{"name":"syofyanzuhad","message":"Hi Jason, from 🇮","date":"10/08/2020"},{"name":"ajkachnic","message":"woah hi there!","date":"09/22/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"vybhav72954","message":"So many wonderful things in this Git account, when will you be publishing the /assign action?","date":"11/06/2020"},{"name":"ahmadnassri","message":"zrsaimun makes nice things!","date":"10/23/2020"},{"name":"StarSheriff2","message":"Hi!","date":"10/12/2020"},{"name":"syofyanzuhad","message":"Hi Saimun, from 🇮","date":"10/08/2020"},{"name":"ajkachnic","message":"woah hi there!","date":"09/22/2020"}]-->
