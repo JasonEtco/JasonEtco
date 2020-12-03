@@ -16,7 +16,7 @@ jobs:
       - name: Update this repo's README
         uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://jasonet.co/rss.xml
+          feed-url: https://zrsaimun.blogspot.com//rss.xml
           readme-section: posts
 
       - name: Update my status
