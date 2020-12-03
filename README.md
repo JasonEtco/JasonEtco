@@ -10,11 +10,11 @@
 ##### Blog posts
 
 <!--START_SECTION:posts-->
-* [Assorted thoughts on documentation](https:&#x2F;&#x2F;zrsaimun.blogspot.com&#x2F;posts&#x2F;thoughts-on-docs&#x2F;)
-* [On &quot;lurking&quot;](https:&#x2F;&#x2F;zrsaimun.blogspot.com&#x2F;posts&#x2F;on-lurking&#x2F;)
-* [Probot App or GitHub Action? (Updated)](https:&#x2F;&#x2F;zrsaimun.blogspot.com&#x2F;posts&#x2F;probot-app-or-github-action-v2&#x2F;)
-* [Build your own Probot](https:&#x2F;&#x2F;zrsaimun.blogspot.com&#x2F;posts&#x2F;build-your-own-probot&#x2F;)
-* [New features of GitHub Actions v2](https:&#x2F;&#x2F;zrsaimun.blogspot.com&#x2F;posts&#x2F;new-features-of-github-actions&#x2F;)
+* [ZR Saimun](https:&#x2F;&#x2F;zrsaimun.blogspot.com&#x2F;2020&#x2F;06&#x2F;zr-saimun.html)
+* [Calculator C# project](https:&#x2F;&#x2F;zrsaimun.blogspot.com&#x2F;2020&#x2F;03&#x2F;calculator-c-project.html)
+* [puzzel game](https:&#x2F;&#x2F;zrsaimun.blogspot.com&#x2F;2020&#x2F;03&#x2F;puzzel-game.html)
+* [Railway Station opengl glut project](https:&#x2F;&#x2F;zrsaimun.blogspot.com&#x2F;2020&#x2F;01&#x2F;railway-station.html)
+* [Aiub Full View opengl](https:&#x2F;&#x2F;zrsaimun.blogspot.com&#x2F;2020&#x2F;01&#x2F;aiub-full-view-computer-graphics-project.html)
 <!--END_SECTION:posts-->
 
 ---
