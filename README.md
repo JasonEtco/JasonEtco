@@ -35,7 +35,7 @@
 
 [@ahmadnassri](https://github.com/ahmadnassri) says:
 
-> Jason makes nice things!
+>  makes nice things!
 
 <sup>10/23/2020</sup>
 
@@ -53,7 +53,7 @@
 
 [@syofyanzuhad](https://github.com/syofyanzuhad) says:
 
-> Hi Jason, from 🇮
+> Hi , from 🇮
 
 <sup>10/08/2020</sup>
 
