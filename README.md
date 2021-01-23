@@ -24,6 +24,15 @@
 <a href="https://readme-guestbook.now.sh">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
+[@Ryuyxx](https://github.com/Ryuyxx) says:
+
+> Konnichiwa! from JP
+
+<sup>01/23/2021</sup>
+
+
+---
+
 [@filipkhan](https://github.com/filipkhan) says:
 
 > Hello man! I see you came unexpectedly to work on a repository that is tied to my account! That is supercool and I hope not a waste of effort =)
@@ -57,14 +66,5 @@
 
 <sup>12/29/2020</sup>
 
-
----
-
-[@mikecallahan](https://github.com/mikecallahan) says:
-
-> Hi Jason, love the guestbook idea!
-
-<sup>12/27/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"filipkhan","message":"Hello man! I see you came unexpectedly to work on a repository that is tied to my account! That is supercool and I hope not a waste of effort =)","date":"01/18/2021"},{"name":"ShrutiKatpara","message":"Hi Jason! How you doing ?!","date":"01/01/2021"},{"name":"AneeshAngadi","message":"Hi Jason!","date":"12/31/2020"},{"name":"Matthew123465","message":"Hi jason","date":"12/29/2020"},{"name":"mikecallahan","message":"Hi Jason, love the guestbook idea!","date":"12/27/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"Ryuyxx","message":"Konnichiwa! from JP","date":"01/23/2021"},{"name":"filipkhan","message":"Hello man! I see you came unexpectedly to work on a repository that is tied to my account! That is supercool and I hope not a waste of effort =)","date":"01/18/2021"},{"name":"ShrutiKatpara","message":"Hi Jason! How you doing ?!","date":"01/01/2021"},{"name":"AneeshAngadi","message":"Hi Jason!","date":"12/31/2020"},{"name":"Matthew123465","message":"Hi jason","date":"12/29/2020"}]-->
