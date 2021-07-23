@@ -21,7 +21,7 @@
 
 ##### Guestbook ([JasonEtco/readme-guestbook](https://github.com/JasonEtco/readme-guestbook))
 
-<a href="https://readme-guestbook.now.sh">Sign it!</a>
+<a href="https://readme-guestbook.vercel.app">Sign it!</a>
 
 <!--START_SECTION:guestbook-->
 [@dabat](https://github.com/dabat) says:
