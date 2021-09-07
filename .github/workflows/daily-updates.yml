@@ -18,6 +18,7 @@ jobs:
         with:
           feed-url: https://jasonet.co/rss.xml
           readme-section: posts
+          empty-commits: 'false'
 
       - name: Update my status
         uses: actions/github-script@v2
