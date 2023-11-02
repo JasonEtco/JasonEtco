@@ -19,5 +19,5 @@
 
 ##### Here's a photo of my cat:
 
-| <img width="1009" alt="Mooki" src="https://user-images.githubusercontent.com/10660468/205749035-9dfaad77-f003-441b-9b7f-d739452e9c82.png"> |
+| <img width="558" alt="Mooki" src="https://github.com/JasonEtco/JasonEtco/assets/10660468/0d369a76-f60c-4cdf-ac80-323adb40edcf"> |
 | --- |
